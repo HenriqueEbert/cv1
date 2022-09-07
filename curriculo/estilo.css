@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
+
+:root{
+
+    --fonte-desteque: 'Bebas Neue', cursive;
+    --font-texto: 'Oleo Script Swash Caps', cursive;
+    --fonte-text: 'Pacifico', cursive;
+    --fonte-tex: 'Silkscreen', cursive;
+     }
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.dados{
+    font-family: var(--font-texto)t;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+
