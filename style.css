@@ -46,20 +46,13 @@ h5{
 
 
 
-#top {
-text-align: center;
-
-  background-color: black;
-  object-fit: cover; /* classe pra deixa a imagem com a proporção correta e não ficar achatada */
-}
-
-
 .img{
-    width: 250spx;
+    width: 250px;
     height: 250px;
     margin-left: 3%;
     margin-top: 3%;
     border-radius: 50%;
+    
 
     }
 
@@ -98,6 +91,7 @@ text-align: center;
     .menu{
         margin-top: 10px;
         margin-left: 10px;
+        
     }
 
     .imagens{
@@ -124,6 +118,8 @@ text-align: center;
 .redes{
 margin-left: 1%;
 margin-top: 25px;
+
+
 }
 
 .link {
@@ -138,22 +134,8 @@ margin-top: 25px;
 }
 
 
-footer{
-    
-    background-color: black;
-    color: white;
-    bottom: 0px; 
-    padding: 2px;
-    font-family: var(--fonte-desteque);
-    text-align: center;
 
-}
 
-.certifcados{
-    background-color: black;
-    width: 100vw;  
-
-}
 
 .certifcados > h3 {
     
@@ -168,14 +150,7 @@ footer{
 }
 
 
-.Diplomas{
-    background-color: black;
-    margin-top: 20px;
-    padding: 0px;
 
-
-    
-}
 
 .Diplomas > h3 {
     text-decoration: none;
@@ -186,6 +161,8 @@ footer{
     font-size: 16px;
     font-weight: bold;
     padding: 5px;
+    
+    
 }
 
 
@@ -215,24 +192,63 @@ footer{
 
 .exp {
     margin-top: 2%;
-
+    padding: 0px;
 }
+
+
+
+
+
+.topo {
+    color: red;
+    
+}
+
 
 .teste{
     background-color: black;
     margin-top: 4%;
-    padding: 0px;
+
+ 
 
 }
+
 
 aside{
     margin-top: 2%;
     margin-left: 2%;
+
+
+}
+
+.top{
+    background-color: black;
+    color: white;
+    font-family: var(--fonte-desteque);
+    text-align: center;
+
+
 }
 
 
-.topo {
-    color: white
-    
+
+
+.certifcados{
+    background-color: black;
+    min-width: 500px;
+    width: 100%;
+
 }
 
+.Diplomas{
+    background-color: black;
+    margin-top: 20px;
+    min-width: 500px;
+    width: 100%;
+}
+
+
+body, header {
+    min-width: 500px;
+    width: 100%;
+}
