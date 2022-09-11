@@ -91,6 +91,8 @@ h5{
     .menu{
         margin-top: 10px;
         margin-left: 10px;
+        min-width: 500px;
+        width: 100%;
         
     }
 
@@ -201,6 +203,8 @@ margin-top: 25px;
 
 .topo {
     color: red;
+    min-width: 500px;
+    width: 100%;
     
 }
 
@@ -208,7 +212,8 @@ margin-top: 25px;
 .teste{
     background-color: black;
     margin-top: 4%;
-
+    min-width: 500px;
+    width: 100%;
  
 
 }
@@ -217,6 +222,8 @@ margin-top: 25px;
 aside{
     margin-top: 2%;
     margin-left: 2%;
+    min-width: 500px;
+    width: 100%;
 
 
 }
@@ -248,7 +255,3 @@ aside{
 }
 
 
-body, header {
-    min-width: 500px;
-    width: 100%;
-}
