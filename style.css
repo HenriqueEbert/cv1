@@ -92,7 +92,7 @@ h5{
     .menu{
         margin-top: 10px;
         margin-left: 10px;
-        min-width: 300px;
+
         width: 100%;
         
     }
@@ -195,8 +195,10 @@ margin-top: 25px;
 
 .exp {
     margin-top: 2%;
-    padding: 0px;
-}
+    
+    background-color: black;
+    min-width: 469px;
+    width: 100%;}
 
 
 
@@ -213,8 +215,10 @@ margin-top: 25px;
 .teste{
     background-color: black;
     margin-top: 4%;
-    min-width: 300px;
-    width: 100%;
+    background-color: black;
+    min-width: 469px;
+    width: 100%;}
+
  
 
 }
@@ -234,6 +238,8 @@ aside{
     color: white;
     font-family: var(--fonte-desteque);
     text-align: center;
+    min-width: 459px;
+    width: 100%;
 
 
 }
@@ -243,7 +249,7 @@ aside{
 
 .certifcados{
     background-color: black;
-    min-width: 300px;
+    min-width: 469px;
     width: 100%;
 
 }
@@ -251,7 +257,7 @@ aside{
 .Diplomas{
     background-color: black;
     margin-top: 20px;
-    min-width: 300px;
+    min-width: 459px;
     width: 100%;
 }
 
