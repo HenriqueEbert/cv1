@@ -197,7 +197,7 @@ margin-top: 25px;
     margin-top: 2%;
     
     background-color: black;
-    min-width: 720px;
+   
     width: 100%;}
 
 
@@ -206,7 +206,7 @@ margin-top: 25px;
 
 .topo {
     color: red;
-    min-width: 720px;
+   
     width: 100%;
     
 }
@@ -216,7 +216,7 @@ margin-top: 25px;
     background-color: black;
     margin-top: 4%;
     background-color: black;
-    min-width: 720px;
+   
     width: 100%;}
 
  
@@ -227,7 +227,7 @@ margin-top: 25px;
 aside{
     margin-top: 2%;
     margin-left: 2%;
-    min-width: 720px;
+  
     width: 100%;
 
 
@@ -238,7 +238,7 @@ aside{
     color: white;
     font-family: var(--fonte-desteque);
     text-align: center;
-    min-width: 720px;
+   
     width: 100%;
 
 
@@ -263,6 +263,6 @@ aside{
 
 body{
     min-width: 465px;
-    max-width: 800px;
+    
     width: 100%;
 }
