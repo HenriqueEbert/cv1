@@ -266,3 +266,31 @@ body{
     
     width: 100%;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+header,body,asider{
+    background-color: black;
+    color: white;
+    min-height: 80px;
+    text-align:center;
+
+}
+
+
+
+
+
+
