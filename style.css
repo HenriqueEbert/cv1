@@ -282,10 +282,8 @@ body{
 
 
 header,body,asider{
-    background-color: black;
-    color: white;
-    min-height: 80px;
-    text-align:center;
+
+    widrh: 95%
 
 }
 
